@@ -3,7 +3,6 @@ version: 0.2
 run-as: Linux-user-name
 
 env:
-  shell: shell-tag
   variables:
     REPO_URL: "208722357485.dkr.ecr.eu-south-1.amazonaws.com"
     IMAGE: "iakta/nuxtweb"
